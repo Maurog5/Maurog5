@@ -3,7 +3,7 @@ Estoy estudiando la carrera de ingeniería en Informática.📚<br>I am studying
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 https://www.linkedin.com/in/mauro-gatica-a5aba3163/
 
 # 💻 Tech Stack:
