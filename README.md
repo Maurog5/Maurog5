@@ -1,5 +1,4 @@
 # 💫 Hola! Quieres saber algo de mi ?  
-Un apasionado Desarrollador Web Full Stack
 ¿Quién soy?
 👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack con un firme compromiso de crecimiento constante personal y técnico.
 
