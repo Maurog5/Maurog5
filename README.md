@@ -1,6 +1,19 @@
-# 💫 About Me:
-Estoy estudiando la carrera de ingeniería en Informática.📚<br>I am studying the engineering career in Computer Science.<br>
+# 💫 Hola! soy Mauro
+Un apasionado Desarrollador Web Full Stack
+¿Quién soy?
+👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack con un firme compromiso de crecimiento constante personal y técnico.
 
+
+⚡ Di mis primeros pasos en el mundo de la tecnología en 2020 al embarcarme en la carrera de Ingeniería en Informática; esta etapa me condujo hacia un emocionante camino: un bootcamp intensivo de desarrollo web Fullstack. De acuerdo a mi experiencia educativa, puedo destacar lo siguiente de mi:
+
+Cuento con sólidas habilidades comunicativas, capacidad para trabajar en equipo al participar en varios proyectos grupales siguiendo la metodología SCRUM junto con el workflow de GIT.
+
+Cuento ademas con experiencia laboral donde explore y aprendi un monton ademas de tecnologias como manejarme en un ambiente profesional.
+
+Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimiento de objetivos, ya sea de manera individual o grupal.
+
+¿Qué hago?
+Actualmente  me dedico a trabajr como desarrollador fronted , a la par de realizo cursos e informandome para seguir aprendiendo nuevas tecnologias de vanguardia y fortalecer mis tech skills.
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
