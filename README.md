@@ -1,4 +1,4 @@
-# 💫 Hola! soy Mauro
+# 💫 Hola! Quieres saber algo de mi ?  
 Un apasionado Desarrollador Web Full Stack
 ¿Quién soy?
 👨‍💻 Soy estudiante de Ingeniería en Informática y Desarrollador Web Full Stack con un firme compromiso de crecimiento constante personal y técnico.
@@ -12,7 +12,7 @@ Cuento ademas con experiencia laboral donde explore y aprendi un monton ademas d
 
 Me considero una persona que apuesta por la autosuperación, teniendo esto en cuenta para contribuir de manera positiva con el cumplimiento de objetivos, ya sea de manera individual o grupal.
 
-¿Qué hago?
+
 Actualmente  me dedico a trabajr como desarrollador fronted , a la par de realizo cursos e informandome para seguir aprendiendo nuevas tecnologias de vanguardia y fortalecer mis tech skills.
 
 ## 🌐 Socials:
